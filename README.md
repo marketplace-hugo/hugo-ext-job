@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Вакансия**.
 
@@ -22,13 +22,13 @@
 - `date` - дата публикации вакансии.
 - `expiryDate` - дата истечения публикации вакансии.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-job.git archetypes/job
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
